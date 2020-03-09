@@ -16,17 +16,12 @@ Updated for Redmine 4
 Install
 -------
 
-1. `Download <https://github.com/tknrng/issue_hot_buttons/downloads>`_ plugin
+1. Download plugin
 2. Extract to your Redmine into vendor/plugins/issue_hot_buttons
 3. Restart web server
 
 Original Author
 ------
 `Thumbtack Technology, Inc. <http://thumbtack.net>`_, Mike Kolganov (mike.kolganov@gmail.com)
-
-
-Special Thanks
---------------
-https://github.com/archonwang (Steven.W) archonwang1981@gmail.com - translate to Simplified Chinese
 
 Welcome to new contributors, especially translators!
