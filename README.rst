@@ -11,7 +11,7 @@ tracking working time and buttons "Next Issue" and "Previous Issue".
 
 Licensed under GNU Lesser General Public License, version 2.1
 
-Updated for Redmine 3.x
+Updated for Redmine 4
 
 Install
 -------
