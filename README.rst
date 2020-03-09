@@ -16,7 +16,7 @@ Updated for Redmine 4
 Install
 -------
 
-1. `Download <https://github.com/panicinc/redmine-issue-hot-buttons/downloads>`_ plugin
+1. `Download <https://github.com/tknrng/issue_hot_buttons/downloads>`_ plugin
 2. Extract to your Redmine into vendor/plugins/issue_hot_buttons
 3. Restart web server
 
